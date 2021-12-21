@@ -23,3 +23,6 @@ for ohters (manually)
 -compile the `conduction.cpp'
 run the compiled file
 
+## usefulness
+You can edit the line that is used to calculate the next point to solve a lot of 2D-partial-differential equation, it is fully open source.
+
