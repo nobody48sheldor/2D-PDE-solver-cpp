@@ -32,7 +32,7 @@ auto tau_init(vector<double> x, vector<double> y, double l, double a, int n)
     {
         for (int i = 0; i < n; i++)
         {
-            double value = 10*exp(-(pow((x[i]-(l/4)), 2) + (pow((y[j]-(l/4)), 2)))/a) / (sqrt(2)*3.14159*a);
+            double value = 10*exp(- 5*(pow((x[i]-(l/4)), 2) + (pow((y[j]-(l/4)), 2)))/a) / (sqrt(2)*3.14159*a);
             xarray[i] = value;
         }
         yarray[j] = xarray;
