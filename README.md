@@ -20,7 +20,7 @@ sh compile-script.sh
 
 for ohters (manually)
 
--compile the `conduction.cpp'
+-compile the `conduction.cpp`
 run the compiled file
 
 ## usefulness
