@@ -7,11 +7,11 @@ A code that **solve** 2D partial differential equations with **C++** and plot th
 
 - conduction **[heat equation]**
 
-![conduction gif](https://cdn.discordapp.com/attachments/748653688515592332/922963072719675412/conduction.gif)
+![conduction gif](img/conduction.gif)
 
 - wave **[wave equation]**
 
-![wave equation](https://cdn.discordapp.com/attachments/748653688515592332/923220605237612664/wave_eq4_2.gif)
+![wave equation](img/wave_eq4_2.gif)
 
 ## languages
 
