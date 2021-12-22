@@ -1,11 +1,11 @@
 echo 
 echo compiling...
 echo 
-g++ conduction.cpp -o conduction-cpp
+g++ solver.cpp -o solver-cpp
 echo 
 echo running...
 echo 
-./conduction-cpp
+./solver-cpp
 
 echo Do you want to keep the renders ? [Y/n]  
 read rep
