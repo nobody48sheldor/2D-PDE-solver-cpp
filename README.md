@@ -46,8 +46,7 @@ sh compile-script.sh
 
 ## cons
 - **I am a highschool student** so it may not be the best way to make this kind of program since **I am not that experienced**.
-
-- there are some **misscalculation at the boundaries**.
+- The **boundaries conditions** are that the function must be 0 at the boundaries, this is done by setting the F(x, y, t) at the boundaries such that F(x, y, t + dt) = F(x, y, t), which imply that this boundaries condition must be true at t = 0, in other words the initial condition must obey the boundaries conditions, I hope a contributor find some way to "disable" the necessarity of boundaries conditions.
 
 ## contribute
 - **You can contribute** to the code and **add** some differents **initial conditions** or **differential equation** and more like **complexity improuvement**.
